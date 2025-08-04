@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+gql
+requests
+requests_toolbelt
